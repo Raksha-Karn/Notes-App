@@ -10,7 +10,9 @@ dependencies:
   flutter:
     sdk: flutter
   isar: ^3.1.0+1
-  isar_flutter_libs: ^3.1.0+1
+  isar_flutter_libs:
+    git: 
+      url: https://github.com/MrLittleWhite/isar_flutter_libs.git
   path_provider: ^2.1.5
   provider: ^6.1.2
 
